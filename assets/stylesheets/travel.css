@@ -219,7 +219,7 @@ table{
  target the tr, td, and th elements
   - give a 2px black solid border to the table
 */
-tr td th{
+tr,td,th{
   border: 2px solid black
 }
 
